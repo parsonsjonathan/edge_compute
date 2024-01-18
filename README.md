@@ -7,3 +7,8 @@ A compilation of resources for satellite edge computing. This includes all thing
     Paper: https://arxiv.org/abs/2305.11891
     podcast: https://www.youtube.com/watch?v=aLe7Pw3DVmo&feature=youtu.be
 
+## 2. Distilling Machine Learning Models
+2.1 Distilling the Knowledge in a Neural Network
+    Authors: Geoffrey Hinton, Oriol Vinyals, Jeff Dean
+    paper: https://arxiv.org/abs/1503.02531
+
