@@ -1,5 +1,5 @@
 # edge_compute
-A compilation of resources for satellite edge computing. This includes all things related to machine learning model distillation, and onboard processing
+A compilation of resources for satellite edge computing. For now, this includes onboard ML and ML model distillation.
 
 ## 1. Onboard Processing
 ### 1.1 PyRaws for processing raw Sentinel-2 satellite imagery (imagery level 0) onboard the satellite.
