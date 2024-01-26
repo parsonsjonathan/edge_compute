@@ -43,3 +43,8 @@ Adelaide, Australia.
     paper: https://arxiv.org/abs/2006.05525
     Rating: TBD
 
+
+## 3. Courses/Learning resources: 
+
+## Edge impulse Computer Vision with Embedded Machine Learning: 
+    https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning
